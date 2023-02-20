@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\manul\OneDrive\Documentos\DEPO-202122826\Taller 2 - Hamburguesas_esqueleto\.metadata\.plugins\org.eclipse.jdt.core
+2850970066.index
+3747656006.index
+1865797976.index
